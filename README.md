@@ -1,1 +1,2 @@
-# _Corgi
+# Corgi
+HTML and CSS practice
